@@ -15,7 +15,7 @@ Treinar o raciocínio técnico do suporte N1 em situações onde o problema rela
 
 ## 🧭 Etapas do atendimento
 
-### 1️⃣ Entendimento do cenário
+### 1️. Entendimento do cenário
 
 - Coleta de informações sobre o uso do computador  
 - Identificação das atividades mais frequentes realizadas pelo usuário  
@@ -23,7 +23,7 @@ Treinar o raciocínio técnico do suporte N1 em situações onde o problema rela
 
 ---
 
-### 2️⃣ Verificação do sistema
+### 2️. Verificação do sistema
 
 - Análise geral do sistema operacional  
 - Checagem do funcionamento básico, sem intervenção corretiva  
@@ -35,7 +35,7 @@ Treinar o raciocínio técnico do suporte N1 em situações onde o problema rela
 
 ---
 
-### 3️⃣ Diagnóstico inicial
+### 3️. Diagnóstico inicial
 
 O comportamento observado está dentro do esperado para o hardware disponível, considerando:
 
@@ -47,7 +47,7 @@ Não foram identificados erros que justificassem ações corretivas no sistema.
 
 ---
 
-### 4️⃣ Encaminhamento do suporte
+### 4️. Encaminhamento do suporte
 
 Neste cenário, a abordagem adotada foi:
 
