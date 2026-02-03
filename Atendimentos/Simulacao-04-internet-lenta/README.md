@@ -4,9 +4,6 @@
 
 Nesta simulação, o problema não estava na rede, mas em configuração de energia do sistema.
 
-👉 Veja o atendimento completo em:
-[atendimento.md](atendimento.md)
-
 ---
 
 Simulação criada como parte do meu aprendizado em Suporte Técnico N1.
