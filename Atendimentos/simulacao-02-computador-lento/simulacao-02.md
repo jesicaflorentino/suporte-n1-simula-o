@@ -1,19 +1,19 @@
 # Simulação de Atendimento – Suporte Técnico N1 (Parte 2)
 
-## 📌 Cenário
+##  Cenário
 
 Usuário relata lentidão no computador durante o uso diário.  
 Não há mensagens de erro, travamentos críticos ou falhas aparentes no sistema.
 
 ---
 
-## 🎯 Objetivo da simulação
+##  Objetivo da simulação
 
 Treinar o raciocínio técnico do suporte N1 em situações onde o problema relatado não está relacionado a falhas no sistema, mas sim às limitações do equipamento e ao perfil de uso do usuário.
 
 ---
 
-## 🧭 Etapas do atendimento
+##  Etapas do atendimento
 
 ### 1️. Entendimento do cenário
 
@@ -59,14 +59,14 @@ Não houve necessidade de ajustes técnicos ou intervenções no sistema.
 
 ---
 
-## 🧠 Aprendizado principal
+##  Aprendizado principal
 
 Nem todo chamado de lentidão exige uma correção técnica.  
 No suporte N1, analisar o ambiente e decidir **não intervir** também faz parte de um atendimento bem executado.
 
 ---
 
-## 📁 Observação
+##  Observação
 
 Esta simulação faz parte do meu treinamento prático para atuação em **Suporte Técnico Júnior (N1)**, com foco em:
 
